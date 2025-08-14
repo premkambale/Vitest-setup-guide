@@ -1,4 +1,4 @@
-![Vitest Setup Guide](vitest-setup-guide.png)
+![Vitest Setup Guide](vitest-setup-guide.png.png)
 # 🌟⚡ Vitest Setup Guide ⚡🌟
 
 Easily set up **Vitest** for your React + TypeScript project with Testing Library, JSDOM, and coverage reports.  
